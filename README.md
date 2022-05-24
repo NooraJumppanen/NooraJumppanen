@@ -11,3 +11,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/noora-jumppanen/ / noora.jumppanen@gmail.com
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NooraJumppanen&layout=compact)]
