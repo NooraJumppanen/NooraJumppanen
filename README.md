@@ -5,7 +5,7 @@ I am a Full Stack Web Developer student at Business College Helsinki (since Aug 
 
 I am looking for a Front End Development internship for summer/autumn 2022 and a whole new, exciting career! 
 
-How to reach me: noora.jumppanen@gmail.com | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/noora-jumppanen/)  
+How to reach me: noora.jumppanen@gmail.com   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/noora-jumppanen/)  
 
 Skills: React | JS | Node | HTML | CSS
 
